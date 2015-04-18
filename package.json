@@ -1,0 +1,31 @@
+{
+  "name": "crlf2lf",
+  "version": "1.0.0",
+  "description": "CLI to convert CRLF (M$ Win) to LF (Unix / Linux).",
+  "main": "lib/crlf2lf.js",
+  "bin": {
+    "crlf2lf": "crlf2lf.js"
+  },
+  "dependencies": {
+    "nomnom": "^1.8.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/XadillaX/node-crlf2lf.git"
+  },
+  "keywords": [
+    "CRLF",
+    "LF",
+    "CRLF2LF"
+  ],
+  "author": "XadillaX",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/XadillaX/node-crlf2lf/issues"
+  },
+  "homepage": "https://github.com/XadillaX/node-crlf2lf"
+}
