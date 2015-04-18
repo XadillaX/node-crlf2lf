@@ -1,10 +1,10 @@
 {
   "name": "crlf2lf",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "CLI to convert CRLF (M$ Win) to LF (Unix / Linux).",
   "main": "lib/crlf2lf.js",
   "bin": {
-    "crlf2lf": "crlf2lf.js"
+    "crlf2lf": "bin/crlf2lf.js"
   },
   "dependencies": {
     "nomnom": "^1.8.1"
